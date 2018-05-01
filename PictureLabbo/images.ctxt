@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=images
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ images\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=images()
+comment1.text=\r\n\ Constructor\ that\ takes\ no\ arguments\r\n
+comment2.params=fileName
+comment2.target=images(java.lang.String)
+comment2.text=\r\n\ Constructor\ that\ takes\ a\ file\ name\ and\ creates\ the\ picture\r\n\ @param\ fileName\ the\ name\ of\ the\ file\ to\ create\ the\ picture\ from\r\n
+comment3.params=width\ height
+comment3.target=images(int,\ int)
+comment3.text=\r\n\ Constructor\ that\ takes\ the\ width\ and\ height\r\n\ @param\ width\ the\ width\ of\ the\ desired\ picture\r\n\ @param\ height\ the\ height\ of\ the\ desired\ picture\r\n
+comment4.params=copyPicture
+comment4.target=images(images)
+comment4.text=\r\n\ Constructor\ that\ takes\ a\ picture\ and\ creates\ a\r\n\ copy\ of\ that\ picture\r\n
+comment5.params=image
+comment5.target=images(java.awt.image.BufferedImage)
+comment5.text=\r\n\ Constructor\ that\ takes\ a\ buffered\ image\r\n\ @param\ image\ the\ buffered\ image\ to\ use\r\n
+comment6.params=
+comment6.target=void\ grayscale()
+comment7.params=
+comment7.target=void\ flipVerticalt()
+comment8.params=
+comment8.target=void\ flipVerticalOtherWay()
+numComments=9
